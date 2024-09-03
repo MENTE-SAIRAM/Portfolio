@@ -1,0 +1,48 @@
+/* About.css */
+.about-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .about-text {
+    max-width: 600px;
+    font-size: 1rem;
+    color:whitesmoke;
+    line-height: 1.6;
+  }
+  
+  .about-image img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  @media (min-width: 768px) {
+    .about-content {
+      flex-direction: row;
+      justify-content: center;
+      align-items: flex-start;
+    }
+  
+    .about-text {
+      text-align: left;
+    }
+  
+    .about-image {
+      margin-left: 40px;
+    }
+  }
+  
