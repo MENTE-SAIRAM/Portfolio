@@ -11,7 +11,7 @@ function Projects() {
     {
       title: 'Movie Ticket Booking Website',
       description: 'A full-stack application for booking movie tickets with seat selection and payment integration.',
-      link: 'https://github.com/yourusername/movie-ticket-booking'
+      link: 'https://github.com/MENTE-SAIRAM/Bookshow'
     },
     {
       title: 'Military Mangement System',
@@ -26,12 +26,12 @@ function Projects() {
     {
       title: 'Personal Portfolio',
       description: 'A responsive portfolio website showcasing my projects and skills.',
-      link: 'https://github.com/yourusername/personal-portfolio'
+      link: 'https://github.com/MENTE-SAIRAM/Portfolio'
     },
     {
       title: 'Restaurant Finder App',
       description: 'A React app that allows users to search for restaurants based on location and cuisine.',
-      link: 'https://github.com/yourusername/restaurant-finder'
+      link: 'https://github.com/MENTE-SAIRAM/Restaurant-Finder-App'
     },
     // Add more projects as needed
   ];
